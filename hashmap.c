@@ -1,10 +1,10 @@
 /*
  * hashmap.c -- generic hash table
  *
- * Copyright (c) 2010, Janne Kulmala <janne.t.kulmala@tut.fi>.
+ * Copyright (c) 2011, Janne Kulmala <janne.t.kulmala@tut.fi>.
  * All rights reserved.
  *
- * See LICENSE.hashmap for the license.
+ * See LICENSE for the license.
  *
  */
 

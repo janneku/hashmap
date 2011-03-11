@@ -1,0 +1,4 @@
+hashmap.[ch] - A generic hashmap implementation in C
+Copyright 2011 Janne Kulmala <janne.t.kulmala@iki.fi>
+
+See LICENSE for the license.
